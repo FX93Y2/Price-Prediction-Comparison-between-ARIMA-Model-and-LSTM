@@ -8,8 +8,8 @@ The project aims to identify any correlations between the amounts invested in R&
 
 ## Repository Structure
 
+- `data/`: This directory contains the datasets used in the analysis, including stock prices and R&D expenditure data.
 - `notebooks/`: Jupyter notebooks with the analysis steps, including data cleaning, exploratory data analysis, visualization, and statistical modeling.
-- `src/`: Source code for custom Python functions or classes used in the notebooks.
 - `reports/`: Generated reports and summaries of the analysis.
 - `images/`: Images and plots generated from the analysis for use in documentation or reports.
 - `requirements.txt`: A list of Python packages required to run the notebooks.
