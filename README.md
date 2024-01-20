@@ -15,8 +15,7 @@ The project aims to identify any correlations between the amounts invested in R&
 
 ## Datasets
 
-The stock price data is sourced from Yahoo Finance using the `yfinance` API, and the R&D spending data is manually curated from company annual reports and trusted financial databases.
-
+The stock price data is sourced from Yahoo Finance using the `yfinance` API.
 ## Tools and Technologies
 
 - Python 3.8+
