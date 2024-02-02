@@ -1,10 +1,10 @@
-# Stock Performance Analysis in Relation to R&D Investment
-
-This repository contains a data analysis project that examines the relationship between Research and Development (R&D) spending and stock performance for major companies in the technology and utilities sectors. The primary focus is on comparing the R&D spending's impact on stock prices of Microsoft (MSFT) and Nvidia (NVDA) with an observational contrast to utility companies like Duke Energy (DUK) and The Southern Company (SO).
+# Comparative Analysis of ARIMA and LSTM Models in Stock Price Prediction
 
 ## Project Overview
+This repository contains a project focused on evaluating the performance of ARIMA and LSTM models in forecasting stock prices within industries differently impacted by AI technological advancements. Specifically, the analysis compares these models' predictive accuracy and efficiency in the technology sector, heavily influenced by AI, against the utilities sector, which is less affected by such advancements.
 
-The project aims to identify any correlations between the amounts invested in R&D and the stock price fluctuations over a given period. It hypothesizes that increased R&D spending is a sign of a company's potential for innovation, growth, and future earnings, which might be reflected in the stock's performance.
+## Objective
+The primary goal is to understand how ARIMA and LSTM models handle forecasting tasks in varying industry contexts and to determine their applicability and effectiveness in real-world financial analysis.
 
 ## Repository Structure
 
