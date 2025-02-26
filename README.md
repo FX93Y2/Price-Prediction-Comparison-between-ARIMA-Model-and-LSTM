@@ -1,7 +1,9 @@
 # Comparative Analysis of ARIMA and LSTM Models in Stock Price Prediction
 
 ## Project Overview
-This repository contains a project focused on evaluating the performance of ARIMA and LSTM models in forecasting stock prices within industries differently impacted by AI technological advancements. Specifically, the analysis compares these models' predictive accuracy and efficiency in the technology sector, heavily influenced by AI, against the utilities sector, which is less affected by such advancements.
+This repository contains final project  for ISE 537 Financial Analysis,  focused on evaluating the performance of ARIMA and LSTM models in forecasting stock prices within industries differently impacted by AI technological advancements. Specifically, the analysis compares these models' predictive accuracy and efficiency in the technology sector, heavily influenced by AI, against the utilities sector, which is less affected by such advancements.\
+\
+See detailed report [here](reports/project_report.pdf)
 
 ## Objective
 The primary goal is to understand how ARIMA and LSTM models handle forecasting tasks in varying industry contexts and to determine their applicability and effectiveness in real-world financial analysis.
